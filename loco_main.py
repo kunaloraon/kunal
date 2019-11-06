@@ -13,7 +13,7 @@ self_token = "469837235274121216"
 
 loco_bearer_token = "498197462327230464"
 
-bot_token = uivtbJyRFFyh7hn2YgycyGRuC4whj92F
+bot_token = "uivtbJyRFFyh7hn2YgycyGRuC4whj92F"
 
 bot_prefix = "+"
 
