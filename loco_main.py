@@ -9,17 +9,17 @@ except Exception as e:
 
 # input all datas
 
-self_token = "531823697447878656"
+self_token = "469837235274121216"
 
-loco_bearer_token = "498197462327230464"
+loco_bearer_token = "469837235274121216"
 
 bot_token = "uivtbJyRFFyh7hn2YgycyGRuC4whj92F"
 
 bot_prefix = "+"
 
-answer_channel_id = 498197462327230464
+answer_channel_id = "498197462327230464"
 
-Crowd_channels = 498197462327230464
+Crowd_channels = "498197462327230464"
 
 #############################
 
