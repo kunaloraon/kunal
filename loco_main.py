@@ -9,9 +9,9 @@ except Exception as e:
 
 # input all datas
 
-self_token = "self token"
+self_token = "498197462327230464"
 
-loco_bearer_token = "Bearer token Example: xxxxxxxxxxxxxxxxxxxxxx"
+loco_bearer_token = "498197462327230464"
 
 bot_token = uivtbJyRFFyh7hn2YgycyGRuC4whj92F
 
