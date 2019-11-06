@@ -15,11 +15,11 @@ loco_bearer_token = "Bearer token Example: xxxxxxxxxxxxxxxxxxxxxx"
 
 bot_token = uivtbJyRFFyh7hn2YgycyGRuC4whj92F
 
-bot_prefix = +
+bot_prefix = "+"
 
-answer_channel_id = "your answer channel id"
+answer_channel_id = 498197462327230464
 
-Crowd_channels = ["xxxxxxxxxx","xxxxxxxxxxxxx"]
+Crowd_channels = 498197462327230464
 
 #############################
 
