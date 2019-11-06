@@ -9,7 +9,7 @@ except Exception as e:
 
 # input all datas
 
-self_token = "498197462327230464"
+self_token = "469837235274121216"
 
 loco_bearer_token = "498197462327230464"
 
